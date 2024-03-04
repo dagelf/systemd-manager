@@ -6,3 +6,4 @@ pip install tkinter
 
 ```
 
+Continuing development at https://github.com/dagelf/systemctl-manager
